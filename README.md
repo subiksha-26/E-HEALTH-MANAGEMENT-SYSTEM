@@ -87,7 +87,6 @@ ScamShield/
 ├── requirements.txt                 # Python dependencies
 ├── docker-compose.yml               # PostgreSQL + Backend containers
 └── readme.md
-
 🛠️ Tech Stack
 Layer 	Technology
 Frontend 	HTML5, CSS3 (Tailwind), JavaScript
